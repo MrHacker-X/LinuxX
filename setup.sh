@@ -24,3 +24,4 @@ echo "\033{1;91m[*]\033[1;97m Setup is completed now you can launch this tool by
 rm -rf ../LinuxX
 echo
 echo
+cd
