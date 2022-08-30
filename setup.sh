@@ -16,8 +16,8 @@ mkdir /data/data/com.termux/files/LinuxX
 mv img linuxx.py /data/data/com.termux/files/LinuxX
 touch linuxx
 echo 'python3 /data/data/com.termux/files/LinuxX/linuxx.py' > linuxx
-chmod +x linux
-mv linux /data/data/com.termux/files/usr/bin
+chmod +x linuxx
+mv linuxx /data/data/com.termux/files/usr/bin
 echo
 echo
 echo "\033{1;91m[*]\033[1;97m Setup is completed now you can launch this tool by typing 'linuxx' in your termux"
