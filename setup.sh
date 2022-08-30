@@ -22,7 +22,7 @@ mv linuxx /data/data/com.termux/files/usr/bin
 echo
 echo
 echo "[*] Setup is completed now you can launch this tool by typing 'linuxx' in your termux"
-rm -rf ../LinuxX
+rm -rf *
 echo
 echo
 cd
