@@ -31,7 +31,7 @@ chmod +x setup.sh
 ## Single Line Installation
 
 ```
-apt-get update -y;apt-get upgrade -y;apt install git -y;git clone httsp://github.com/MrHacker-X/LinuxX.git;cd LinuxX;chmod +x setup.sh;./setup.sh
+apt-get update -y;apt-get upgrade -y;apt install git -y;git clone https://github.com/MrHacker-X/LinuxX.git;cd LinuxX;chmod +x setup.sh;./setup.sh
 ```
 + Now setup in completed so you can launch by typing `linuxx` in your Termux
 
