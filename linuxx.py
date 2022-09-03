@@ -40,7 +40,7 @@ list = """
 \033[1;91m[\033[1;97m??\033[1;91m]\033[1;97m linuxx>> \033[1;91m"""
 
 about = """
-\033[1;97m[*]\033[1;91m] Auther: \033[1;97mAlex Butler (\033[1;91mMrHacker-X\033[1;97m])
+\033[1;97m[*]\033[1;91m Auther: \033[1;97mAlex Butler (\033[1;91mMrHacker-X\033[1;97m])
 
 \033[1;97m[*] \033[1;91mIntroduction
 \033[1;91m==> \033[1;97mLinuxX is a Android emulater based linux distribution installer tool. This tool can install 10 different kind of linux distro in Termux , It also contain Kali Nethunter cli version. In the simple way You can get root access in your non-rooted android termux And then you can install and run any root tool in termux. You can install linux distribution in a very easy way. You just have to launch the tool 'LinuxX' in your termux by typing 'linuxx' in your termux and after launching the tool select here which linux distribution you want to install and press ENTER and wait here, Because It can take few minutes to install it you termux.
