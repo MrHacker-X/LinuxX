@@ -292,7 +292,7 @@ while True:
                 print()
                 print("\033[1;91m[*] \033[1;97mOpening my Telegram Channel in your device \n")
                 time.sleep(1)
-                os.system("xdg-open https://t.me/mrhackersx")
+                os.system("xdg-open https://t.me/hackwithalex")
 
             elif fol == '9' or fol == '99':
                 print()
