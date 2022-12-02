@@ -286,7 +286,7 @@ while True:
                 print()
                 print("\033[1;91m[*] \033[1;97mOpening my YouTube channel in your device \n")
                 time.sleep(1)
-                os.system("xdg-open https://youtube.com/c/Sololex")
+                os.system("xdg-open https://youtube.com/@Technolex")
             
             elif fol == '5' or fol == '05':
                 print()
